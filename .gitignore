@@ -1,0 +1,5 @@
+# Ignore vector DB folders and temp files
+vector_db/
+db_*/
+__pycache__/
+.env
